@@ -8,7 +8,7 @@ Hozirda **Najot Ta’lim**da Backend Python Bootcamp kursida tahsil olyapman va 
 
 ### 🛠️ Texnologiyalar
 
-* Python
+* Python 
 * Django
 * SQL
 * PostgreSQL
